@@ -17,7 +17,7 @@ ___
 
 :star: Here are some projects that I'm working on:
 - [Yumeko-Jabami Repository](https://github.com/itsmeyudd/Yumeko-Jabami)
-- [YumekoBOT](https://wa.me/6285704347763)
+- [YumekoBOT](https://wa.me/6283830960658?text=.menu)
 
 ### About Me ⚠️
 ___
