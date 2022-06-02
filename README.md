@@ -16,8 +16,8 @@ ___
 - `Javascript 🚀`
 
 :star: Here are some projects that I'm working on:
-- 
-- 
+- [Yumeko-Jabami Repository](https://github.com/itsmeyudd/Yumeko-Jabami)
+- [YumekoBOT](https://wa.me/6285704347763)
 
 ### About Me ⚠️
 ___
