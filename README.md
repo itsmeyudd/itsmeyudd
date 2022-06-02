@@ -24,5 +24,4 @@ ___
 
 ![imYDH's github stats](https://github-readme-stats.vercel.app/api?username=itsmeyudd&layout=compact&theme=darcula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itsmeyudd&theme=darcula&layout=compact)
-<!--
-![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=itsmeyudd&repo=apiii&theme=darcula&layout=compact)
+![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=itsmeyudd&repo=Yumeko-Jabami&theme=darcula&layout=compact)
